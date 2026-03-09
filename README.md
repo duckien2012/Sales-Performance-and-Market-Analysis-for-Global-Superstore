@@ -250,7 +250,7 @@ _Not all revenue growth translates to sustainable profitability._
 
 ### 🔍 Dashboard 1: Business Overview  
 
-![Image](https://github.com/user-attachments/assets/270e5fdb-d93f-4bf2-8daf-ecc81a07493f)
+![Image](https://github.com/user-attachments/assets/69f2deb7-8c70-48b1-ae85-5dcb73d38a3e)
 
 
 #### 📌 Overall Business Performance
@@ -280,7 +280,7 @@ _Not all revenue growth translates to sustainable profitability._
 
 ### 📦 Dashboard 2: Product Analysis  
 
-![Image](https://github.com/user-attachments/assets/41174e5d-999c-436c-a73c-2e9a77dc0353)
+![Image](https://github.com/user-attachments/assets/e61e0f60-51a7-4cd0-8806-1c7edc586e32)
 
 
 #### 📌 Product Analysis 
@@ -304,7 +304,7 @@ _Not all revenue growth translates to sustainable profitability._
 
 ### 🌍 Dashboard 3: Market Analysis  
 
-![Image](https://github.com/user-attachments/assets/91cacb29-8f55-4fd4-922f-239ad0ca263f)
+![Image](https://github.com/user-attachments/assets/10741926-438f-49dc-9a46-72b86a435458)
 
 
 #### 📌 Market Analysis
