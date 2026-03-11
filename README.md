@@ -1,8 +1,8 @@
 # 📊 Global Superstore Performance Analysis | Power BI
 
 **Author:** Hoàng Đức Kiên  
-**Date:** 2026-03-02  
-**Tools Used:** Power BI, DAX  
+**Date:** 2025
+**Tools Used:** Power BI 
 
 ---
 
@@ -191,58 +191,25 @@ The project uses a **star schema model** consisting of:
 
 ## 🧠 Design Thinking Process  
 
-👉🏻 _Insert screenshot of your Design Thinking table here_  
-
----
-
 ### 1️⃣ Empathize  
-
-**Leadership needs:**  
-
-- Quick business health snapshot  
-- Clear market comparison  
-- Profitability visibility  
-- Expansion decision support  
+![Image](https://github.com/user-attachments/assets/826a7689-cf54-43fb-92e2-b7aac8f28b10)
+![Image](https://github.com/user-attachments/assets/59432da3-23e7-4739-9dbe-f7c1a88ab4ed)
 
 ---
 
 ### 2️⃣ Define Point of View  
-
-**The company must shift focus from revenue growth to profit-driven expansion.**
-
-**Core problem:**  
-_Not all revenue growth translates to sustainable profitability._
+![Image](https://github.com/user-attachments/assets/ff3317b3-94d1-4830-b9b7-4e885e6fbf13)
+![Image](https://github.com/user-attachments/assets/e2fab433-228b-4bf7-a041-6b17f50e15d3)
 
 ---
 
 ### 3️⃣ Ideate  
-
-**Design 3 analytical layers:**  
-
-1. **Business Overview** (Executive snapshot)  
-2. **Product Performance** (Portfolio optimization)  
-3. **Market Performance** (Expansion evaluation)  
-
-**KPIs defined:**  
-
-- Total Revenue  
-- Total Profit  
-- Profit Margin  
-- Total Orders  
-- Return Rate  
-- YoY Growth  
-
+![Image](https://github.com/user-attachments/assets/f88c030d-d1b2-46da-9522-97c381fafc2c)
+![Image](https://github.com/user-attachments/assets/0cd14df5-4a07-4f05-87f8-e54839a5b949)
 ---
 
 ### 4️⃣ Prototype & Review  
-
-**Implementation steps:**  
-
-- ✔️ Built interactive dashboard  
-- ✔️ Applied KPI hierarchy  
-- ✔️ Reduced visual clutter  
-- ✔️ Enhanced cross-filtering  
-- ✔️ Optimized layout for executive readability  
+This phase is implemented and validated directly within the interactive dashboard.
 
 ---
 
